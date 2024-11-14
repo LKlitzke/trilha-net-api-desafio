@@ -1,9 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace TrilhaApiDesafio.Models
+﻿namespace TrilhaApiDesafio.Models
 {
     public class Tarefa
     {
